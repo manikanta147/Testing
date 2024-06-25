@@ -1,0 +1,9 @@
+{
+	"name": "maniadf147",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fce43a01-9713-4d9d-b896-b1973d57427a",
+		"tenantId": "0bd077d7-b306-473b-835a-55e2c1c34ed1"
+	}
+}
